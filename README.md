@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @mathilde733
-- 👀 I’m interested in travel
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on projetcs
-- 📫 How to reach me ? 
-- 😄 Pronouns: she
-- ⚡ Fun fact: 
+Hi !! ✨
+
+I'm Mathilde,
+21,
+French girl currently living in Switzerland,
+Studying Bioinformatics at the Universities of Fribourg and Bern 👩🏻‍💻🧬. 
+
+Join me on linkedin.com/in/mathilde-jacquey-029b14203 
+
 
 <!---
 mathilde733/mathilde733 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
