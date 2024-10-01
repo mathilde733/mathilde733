@@ -5,7 +5,7 @@ I'm Mathilde,
 French girl currently living in Switzerland,
 Studying Bioinformatics at the Universities of Fribourg and Bern 👩🏻‍💻🧬. 
 
-Join me on linkedin.com/in/mathilde-jacquey-029b14203 
+Join me on https://linkedin.com/in/mathilde-jacquey-029b14203 
 
 
 <!---
