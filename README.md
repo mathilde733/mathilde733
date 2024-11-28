@@ -1,7 +1,7 @@
 Hi !! ✨
 
 I'm Mathilde,
-21,
+22,
 French girl currently living in Switzerland,
 Studying Bioinformatics at the Universities of Fribourg and Bern 👩🏻‍💻🧬. 
 
