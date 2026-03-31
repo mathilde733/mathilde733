@@ -1,8 +1,6 @@
 Hi !! ✨
 
-I'm Mathilde,
-22,
-French girl currently living in Switzerland,
+I'm Mathilde, \
 Studying Bioinformatics at the Universities of Fribourg and Bern 👩🏻‍💻🧬. 
 
 
