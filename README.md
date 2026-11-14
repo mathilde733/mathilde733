@@ -1,8 +1,11 @@
 Hi !! ✨
 
-I'm Mathilde, \
-Studying Bioinformatics at the Universities of Fribourg and Bern 👩🏻‍💻🧬. 
+I'm Mathilde, 👩🏻‍💻🧬 
 
+I completed an MSc in Bioinformatics and Computational Biology at the Universities of Fribourg and Bern (Switzerland). \
+I also did a research internship at the Inselspital, Bern University Hospital.
+
+🔎 I'm currently looking for a PhD position in the biomedical / medical field. 
 
 
 
